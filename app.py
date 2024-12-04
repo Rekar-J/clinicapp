@@ -7,7 +7,7 @@ data = {
     "Name": ["Alice", "Bob", "Charlie", "Diana", "Eve"],
     "Age": [25, 34, 45, 29, 40],
     "Last Visit": ["2023-10-15", "2023-10-20", "2023-11-05", "2023-11-12", "2023-11-25"],
-    "Condition": ["Healthy", "Diabetes", "Hypertension", "Healthy", "Asthma"],
+    "Condition": ["Healthy", "Diabetes", "Hypertension", "Healthy", "Asthma", "Cough"],
 }
 df = pd.DataFrame(data)
 
